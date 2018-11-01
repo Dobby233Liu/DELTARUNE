@@ -675,20 +675,17 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 -->
-# DELTARUNE セーブデータ
-DELTARUNEのセーブデータは  
-`C:\Users\ユーザー名\AppData\Local\DELTARUNE`  
-の中にあります。  
-filech1_0が1番目のセーブデータ、filech1_1が2番目のセーブデータ、filech1_2が3番目のセーブデータです。  
-(filech1_3とfilech1_9はわからないです。)  
-また、dr.iniを書き換えることによってタイトル画面でのセーブデータ情報を変更することができます。
-
-# 値の意味
-1行目: 造り手の名前  
-2行目: 造った器の名前  
-8行目: 1人目のパーティメンバー (1:Kris,2:Susie,3:Ralsei)  
-9行目: 2人目のパーティメンバー (1:Kris,2:Susie,3:Ralsei)  
-10行目: 3人目のパーティメンバー (1:Kris,2:Susie,3:Ralsei)  
-16行目: イベントフラグ (0:Normal world, 1:Underground, Over 2:Unknown)  
+# DELTARUNE Save data
+DELTARUNE's save data stored in  
+`C:\Users\USERNAME\AppData\Local\DELTARUNE`  
+(filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.  
+and, you can edit save data information in title screen by edit dr.ini.  
+# Meaning of the value
+Line 1: Creator name  
+Line 2: Vessel name  
+Line 8: First member of party (1:Kris,2:Susie,3:Ralsei)  
+Line 9: Second member of party (1:Kris,2:Susie,3:Ralsei)  
+Line 10: Third member of party (1:Kris,2:Susie,3:Ralsei)  
+Line 16: Event flag (0:Normal world, 1:Underground, Over 2:Unknown)  
 Line 10317: Current MAP ID ([MAP ID List](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_EN.md))  
 Line 10318: Played time  
