@@ -697,7 +697,7 @@ Line 74: Defense of first party member
 Line 75: Magic of first party member  
 Line 125: Current HP of second party member  
 Line 126: Max HP of second party member  
-Line 127: Attack of second party member
+Line 127: Attack of second party member  
 Line 128: Defense of second party member  
 Line 129: Magic of second party member  
 Line 179: Current HP of third party member  
