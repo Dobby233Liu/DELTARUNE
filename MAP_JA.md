@@ -826,8 +826,6 @@ Toby犬が寝ている所はHex Editorでdata.winを書き換えることによ�
 139: Toby犬が寝てる、タイトルがDOGUTARUNEになる (タイトルを一瞬だけTHE DARKに変更する)  
 140: Toby犬が寝てる、タイトルがDOGUTARUNEになる (スプラッシュなしのエンディング)  
 141: Toby犬が寝てる、タイトルがDOGUTARUNEになる (黒色の部屋)  
-142: Toby犬が寝てる、タイトルがDOGUTARUNEになる (卵をくれる男の部屋) 
-143: Toby犬が寝てる、タイトルがDOGUTARUNEになる (黒色の部屋)
+142: Toby犬が寝てる、タイトルがDOGUTARUNEになる (卵をくれる男の部屋)  
+143: Toby犬が寝てる、タイトルがDOGUTARUNEになる (黒色の部屋)  
 144: Toby犬が寝てる、タイトルがDOGUTARUNEになる (ピンク色の部屋)
-1337: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
-10000000000000: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
