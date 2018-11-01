@@ -675,6 +675,8 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 -->
+# Attention
+I'm not good at English, so if you found any bad English open issue or send pull request please.  
 # DELTARUNE Save data
 DELTARUNE's save data stored in  
 `C:\Users\USERNAME\AppData\Local\DELTARUNE`  
