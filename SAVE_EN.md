@@ -695,15 +695,24 @@ Line 72: Max HP of first party member
 Line 73: Attack of first party member  
 Line 74: Defense of first party member  
 Line 75: Magic of first party member  
+Line 77: First item of first party member  
+Line 78: Second item of first party member  
+Line 79: Third item of first party member  
 Line 125: Current HP of second party member  
 Line 126: Max HP of second party member  
 Line 127: Attack of second party member  
 Line 128: Defense of second party member  
 Line 129: Magic of second party member  
+Line 131: First item of second party member  
+Line 132: Second item of second party member  
+Line 133: Third item of second party member  
 Line 179: Current HP of third party member  
 Line 180: Max HP of third party member  
 Line 181: Attack of third party member  
 Line 182: Defense of third party member  
 Line 183: Magic of third party member  
+Line 185: First item of third party member  
+Line 186: Second item of third party member  
+Line 187: Third item of third party member  
 Line 10317: Current MAP ID ([MAP ID List](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_EN.md))  
 Line 10318: Played time  
