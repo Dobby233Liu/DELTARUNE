@@ -773,7 +773,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 87: スージーが草に隠れてる所  
 88: 1つ目の攻撃してくる鳥がいる部屋  
 89: 隠れた木を調べると先に進める部屋  
-90: 森 - 迷路前  
+90: Forest - Before Maze  
 91: 迷路の部屋1つ目  
 92: 行き止まりの部屋  
 93: 行き止まりの部屋の下  
@@ -781,10 +781,10 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 95: 行き止まりの部屋2つ目 (これ統一しちゃ駄目だったの？)  
 96: Forest - After Maze  
 97: Teleport door (castle)
-98: めっちゃ滑らかに歩くやつがついてくる部屋  
+98: A map that lacer tracing us  
 99: 美味しい飴を食べる部屋  
-100: めっちゃ滑らかに歩くやつがついてくる部屋2 (名前考えるのめんどくさくなってきた)(やった！ついに100だ！)  
-101: めっちゃ滑らかに歩くやつがついてくる部屋3 (これでいいよね)  
+100: A map that lacer tracing us2  
+101: A map that lacer tracing us3  
 102: 横からの攻撃を避け続ける部屋  
 103: 下からの攻撃を避け続ける部屋  
 104: カルタス城の目の前  
@@ -796,17 +796,17 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 110: カルタス城のエレベーター (多分階層が違う)  
 111: カルタス城 - ？？？ (多分ここなんか重要。ストーリーの分岐とかしてくれると嬉しい)  
 112: Right of 111  
-113: カルタス城入ってすぐの廊下  
-114: カルタス城 - 1F  
+113: Hallway of card castle entrance  
+114: Card Castle - 1F  
 115: 家族写真がある部屋 (誰の？)  
 116: A room that has spinning trap  
 117: First easy puzzle  
-118: 見張りが徘徊してる部屋  
+118: Room which the enemy is walking  
 119: A room that has four beds  
 120: A room that has easy spinning trap  
 121: Second easy puzzle  
 122: ラジカセでクラブミュージックをかけている部屋  
-123: カルタス城 - 5F  
+123: Card Castle - 5F  
 124: A room that has bicycle lying in bed  
 125: A room that has easy puzzle man and red board monster  
 126: Throne  
