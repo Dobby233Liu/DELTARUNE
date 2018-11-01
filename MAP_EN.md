@@ -678,13 +678,13 @@ Public License instead of this License.  But first, please read
 # How to use
 Open
 `C:\Users\USERNAME\AppData\Local\DELTARUNE`  
-and choose setting file.
+and choose setting file.  
 (filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.)  
 then write map id to line 10317.
 # ID List
-0: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
-1: オープニングの性格等決める所。  
-2: 最初に寝ている部屋。  
+0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+1: Game opening.  
+2: Kuris' room.    
 3: 最初に寝ている部屋の前の廊下。  
 4: 真っ黒なマップ。恐らく未使用。  
 5: 自宅のキッチン。  
