@@ -682,8 +682,10 @@ MAP IDやセーブデータの情報等をまとめたリポジトリです。/S
   
 [セーブデータ情報](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_JA.md)  
 [マップIDリスト](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_JA.md)  
+[Stardust Team's Research Labのドキュメント](https://docs.google.com/document/d/1JSqTowJOUphgz1KIDgTIJOSO7ciSQllpGI6InAmiBrw)  
 [Save data information](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md)  
 [Map ID List](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_EN.md)  
+[Stardust Team's Research Lab's document](https://docs.google.com/document/d/1JSqTowJOUphgz1KIDgTIJOSO7ciSQllpGI6InAmiBrw)  
 # Credit
 SiroQ
 # Special Thanks
