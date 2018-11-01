@@ -717,7 +717,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 31: Hallway of school that has storage room  
 32: Dark storage room  
 33: Normal storage room  
-34: First place when fall down to underground
+34: First place when fall down to underground  
 35: ??????  
 36: Right of ??????  
 37: Right of 36  
@@ -752,13 +752,13 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 66: 65の右  
 67: 2つ目の光トラップ  
 68: 平原 - 大盤面  
-69: 3つ目の光トラップ  
+69: Third light trap  
 70: とても曲がりくねった大盤面  
 71: 平原 - 大盤面2  
 72: 大盤面の終わり  
 73: 森 - 入り口  
-74: 73の右  
-75: 74の右(だってこのぐらいしか表現が思いつかないんだもん)  
+74: Right of 73  
+75: Right of 75  
 76: 1つ目の回転トラップ  
 77: ただのボールがいる部屋  
 78: 1つ目のトランプパズル  
@@ -802,9 +802,9 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 116: 4つの回転トラップを回避して進む部屋  
 117: クソ簡単なパズル1つ目  
 118: 見張りが徘徊してる部屋  
-119: ベッドが4つある部屋  
+119: A room that has four beds  
 120: そこまで難しくない回転トラップがある部屋  
-121: クソ簡単なパズル2つ目  
+121: Second easy puzzle  
 122: ラジカセでクラブミュージックをかけている部屋  
 123: カルタス城 - 5F  
 124: A room that has bicycle lying in bed  
