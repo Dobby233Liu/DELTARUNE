@@ -723,14 +723,14 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 37: Right of 36  
 38: A map that has weird moster between two flowers  
 39: Attacking flower room  
-40: 目のパズルがある部屋  
-41: 化物に触れる部屋  
-42: ロッククライミングできそうな壁がある部屋  
-43: 読み込み不可
-44: 長い滝の下  
-45: 城下町  
-46: 城の中  
-47: ダミー部屋  
+40: Eye puzzle  
+41: A room that can touch the monsters  
+42: A room with a wall that can be rock climbing  
+43: Can't be loaded  
+44: A map below long waterfall  
+45: Castle town  
+46: In castle  
+47: Dummy room  
 48: 冒険の始まりの扉  
 49: 平原 - 大扉  
 50: 扉の下  
