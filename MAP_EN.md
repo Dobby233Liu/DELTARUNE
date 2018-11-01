@@ -684,19 +684,19 @@ then write map id to line 10317.
 Some maps will be buggy if you won't change event flag ([Save data](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md) line 16).
 # ID List
 0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
-1: Game opening.  
-2: Kuris' room.    
-3: 最初に寝ている部屋の前の廊下。  
-4: 真っ黒なマップ。恐らく未使用。  
-5: 自宅のキッチン。  
-6: 自宅のお風呂。  
-7: 自宅の外。  
+1: Game opening  
+2: Kuris' room    
+3: Corridor in front of Kuris' room  
+4: Dark map (Maybe unused)  
+5: Kitchen   
+6: Bath room  
+7: Front of home  
 8: 真っ黒なマップ。恐らく未使用。  
 9: 自宅の下の店付近。  
-10: カップルがデートしてる湖。  
-11: 9の下の店がある所。  
-12: 真っ黒なマップ。恐らく未使用。  
-13: としょんか(図書館)があるマップ  
+10: A lake  
+11: Below 9  
+12: Dark map (Maybe unused)  
+13: A map that has library  
 14: 学校の前  
 15: Town hallがあるマップ  
 16: 墓地  
