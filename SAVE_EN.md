@@ -679,7 +679,8 @@ Public License instead of this License.  But first, please read
 I'm not good at English, so if you found any bad English open issue or send pull request please.  
 # DELTARUNE Save data
 DELTARUNE's save data stored in  
-`C:\Users\USERNAME\AppData\Local\DELTARUNE`  
+`C:\Users\UserName\AppData\Local\DELTARUNE`(Windows)  
+`/Applications/SURVEY_PROGRAM.app/Contents/Resources/`(Macintosh)    
 (filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.  
 and, you can edit save data information in title screen by edit dr.ini.  
 also, you can change language by edit true_config.ini.  
