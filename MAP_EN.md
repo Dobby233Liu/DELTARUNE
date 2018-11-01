@@ -685,8 +685,8 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 # ID List
 0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
 1: Game opening  
-2: Kuris' room    
-3: Hallway in front of Kuris' room  
+2: Kris' room    
+3: Hallway in front of Kris' room  
 4: Dark map (Maybe unused)  
 5: Kitchen   
 6: Bath room  
@@ -717,9 +717,9 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 31: Hallway of school that has storage room  
 32: Dark storage room  
 33: Normal storage room  
-34: 地底に落ちた時の場所  
+34: First place when fall down to underground
 35: ?????  
-36: 1つ目のセーブポイントの右の通路  
+36: Right of ?????
 37: 36の更に右  
 38: 化物の左右に植物があるだけの部屋  
 39: 花が攻撃してくる部屋  
