@@ -681,7 +681,7 @@ Open
 and choose setting file.  
 (filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.)  
 then write map id to line 10317.
-Some maps will be buggy if you won't change event flag ([Save data](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md) line 16)
+Some maps will be buggy if you won't change event flag ([Save data](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md) line 16).
 # ID List
 0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
 1: Game opening.  
@@ -814,9 +814,9 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 128: ラスボスがいる部屋 (ラスボスにしては小物感あるよねあいつ)  
 129: 闇の泉に繋がる通路  
 130: 闇の泉  
-131: Toby犬が寝てる、タイトルがDOGUTARUNEになる (終わったか！？ (フラグ))  
-132: Toby犬が寝てる、タイトルがDOGUTARUNEになる (これってfallback的ななにかなのかな？)  
-133: Toby犬が寝てる、タイトルがDOGUTARUNEになる (そうっぽいな)  
-134: Toby犬が寝てる、タイトルがDOGUTARUNEになる (多分終わり)  
-1337: Toby犬が寝てる、タイトルがDOGUTARUNEになる (終わりだ。)  
-10000000000000: Toby犬が寝てる、タイトルがDOGUTARUNEになる (多分他にもマップあるんじゃないかなぁ...)
+131: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+132: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+133: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+134: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+1337: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+10000000000000: Toby dog is sleeping, title changed to "DOGUTARUNE".  
