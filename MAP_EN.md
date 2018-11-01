@@ -805,7 +805,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 119: A room that has four beds  
 120: A room that has easy spinning trap  
 121: Second easy puzzle  
-122: ラジカセでクラブミュージックをかけている部屋  
+122: A room that plays clubs music by boombox  
 123: Card Castle - 5F  
 124: A room that has bicycle lying in bed  
 125: A room that has easy puzzle man and red board monster  
