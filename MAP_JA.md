@@ -682,6 +682,7 @@ Public License instead of this License.  But first, please read
 をメモ帳等で開き、下から二番目の行に任意のマップIDを入れてください。  
 いくつかのマップは、16行目のイベントフラグを合わせないとバグが起こります。  
 詳しくは[こちら](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_JA.md)を参照してください。  
+Toby犬が寝ている所はHex Editorでdata.winを書き換えることによってアクセス可能です。  
 # ID List
 0: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
 1: オープニングの性格等決める所。  
@@ -814,9 +815,19 @@ Public License instead of this License.  But first, please read
 128: ラスボスがいる部屋  
 129: 闇の泉に繋がる通路  
 130: 闇の泉  
-131: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
-132: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
-133: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
-134: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
+131: Toby犬が寝てる、タイトルがDOGUTARUNEになる (ただの犬の部屋)  
+132: Toby犬が寝てる、タイトルがDOGUTARUNEになる (最初に効果音がなるエンディング)  
+133: Toby犬が寝てる、タイトルがDOGUTARUNEになる (よろず屋)  
+134: Toby犬が寝てる、タイトルがDOGUTARUNEになる (パズル野郎の店)  
+135: Toby犬が寝てる、タイトルがDOGUTARUNEになる (エラーでロード不可)  
+136: Toby犬が寝てる、タイトルがDOGUTARUNEになる (エンディング)  
+137: Toby犬が寝てる、タイトルがDOGUTARUNEになる (エンディング)  
+138: Toby犬が寝てる、タイトルがDOGUTARUNEになる (ゲームオーバー)  
+139: Toby犬が寝てる、タイトルがDOGUTARUNEになる (タイトルを一瞬だけTHE DARKに変更する)  
+140: Toby犬が寝てる、タイトルがDOGUTARUNEになる (スプラッシュなしのエンディング)  
+141: Toby犬が寝てる、タイトルがDOGUTARUNEになる (黒色の部屋)  
+142: Toby犬が寝てる、タイトルがDOGUTARUNEになる (卵をくれる男の部屋) 
+143: Toby犬が寝てる、タイトルがDOGUTARUNEになる (黒色の部屋)
+144: Toby犬が寝てる、タイトルがDOGUTARUNEになる (ピンク色の部屋)
 1337: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
 10000000000000: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
