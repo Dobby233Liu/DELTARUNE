@@ -675,6 +675,8 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 -->
+# Attention
+I'm not good at English, so if you found any bad English open issue or send pull request please.  
 # How to use
 Open
 `C:\Users\USERNAME\AppData\Local\DELTARUNE`  
@@ -766,39 +768,39 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 80: A room that has treasure chest  
 81: A room that has three head monster  
 82: Frost - Bake Sale  
-83: ピコピコハンマー鍛冶職人がいる所  
-84: 三色団子みたいな芋虫がいる所  
-85: バレリーナの間を潜り抜けるトラップ1つ目  
-86: 壊れた鍵Bが手に入る宝箱がある部屋の下  
-87: スージーが草に隠れてる所  
-88: 1つ目の攻撃してくる鳥がいる部屋  
-89: 隠れた木を調べると先に進める部屋  
+83: Smith malius  
+84: Bloxers running room  
+85: First ballerina trap  
+86: A room below treasure chest  
+87: A map that susie hid in grass  
+88: First bird trap  
+89: A room that has wood puzzle  
 90: Forest - Before Maze  
-91: 迷路の部屋1つ目  
-92: 行き止まりの部屋  
-93: 行き止まりの部屋の下  
-94: 迷路の部屋2つ目  
-95: 行き止まりの部屋2つ目 (これ統一しちゃ駄目だったの？)  
+91: First maze room  
+92: Dead-end room  
+93: A map below Dead-end room  
+94: Second maze room  
+95: Dead-end room2  
 96: Forest - After Maze  
-97: Teleport door (castle)
+97: Teleport door (castle)  
 98: A map that lacer tracing us  
-99: 美味しい飴を食べる部屋  
+99: A room that lacer eats delicious candy  
 100: A map that lacer tracing us2  
 101: A map that lacer tracing us3  
-102: 横からの攻撃を避け続ける部屋  
-103: 下からの攻撃を避け続ける部屋  
-104: カルタス城の目の前  
-105: カルタス城の牢屋  
-106: スージーが自力でパズルを解く部屋  
-107: カルタス城 - 牢屋  
-108: 牢屋にモンスター達が捕らえられている部屋  
-109: カルタス城のエレベーター  
-110: カルタス城のエレベーター (多分階層が違う)  
-111: カルタス城 - ？？？ (多分ここなんか重要。ストーリーの分岐とかしてくれると嬉しい)  
+102: Attack from enemy  
+103: Attack from enemy2  
+104: Front of Card Castle  
+105: Prison of Card Castle  
+106: A room that susie solve puzzle himself  
+107: Card Castle - Prison  
+108: A room that has jailed monsters  
+109: Card Castle's elevator  
+110: Card Castle's elevator2  
+111: Card Castle - ???  
 112: Right of 111  
 113: Hallway of card castle entrance  
 114: Card Castle - 1F  
-115: 家族写真がある部屋 (誰の？)  
+115: A room that has family photo  
 116: A room that has spinning trap  
 117: First easy puzzle  
 118: Room which the enemy is walking  
