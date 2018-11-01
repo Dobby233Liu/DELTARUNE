@@ -731,13 +731,13 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 45: Castle town  
 46: In castle  
 47: Dummy room  
-48: A big door  
-49: 平原 - 大扉  
-50: 扉の下  
-51: 最初のモンスターがいる所  
-52: 作りかけの看板がある所  
-53: キャンディーが2つ実っている木  
-54: 壊されたケーキがある所  
+48: A great door  
+49: Field - great door  
+51: Below great door  
+51: A map that has first monster  
+52: A map that has a sign under making  
+53: A map that has wood with two candy  
+54: A map that has broken cake  
 55: 2回目のモンスターがいる所  
 56: 平原 - 死の迷路  
 57: 1つ目の時計パズル  
