@@ -701,7 +701,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 15: A map that has town hall  
 16: Graveyard  
 17: A map has door that plays gaster's sound  
-18: In Hospital 
+18: In Hospital  
 19: Hospital's Hallway  
 20: Hospital room 1  
 21: Hospital room 2  
