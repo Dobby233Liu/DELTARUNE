@@ -759,13 +759,13 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 73: Frost - Entrance  
 74: Right of 73  
 75: Right of 74  
-76: 1つ目の回転トラップ  
-77: ただのボールがいる部屋  
-78: 1つ目のトランプパズル  
-79: 2つ目のトランプパズル  
-80: ダイスブレスが入った宝箱がある部屋  
-81: 3つの頭が喧嘩してる敵が出てくる所  
-82: スイーツ即売会  
+76: First spinning trap  
+77: A room that has little ball  
+78: First trump puzzle  
+79: Second trump puzzle  
+80: A room that has treasure chest  
+81: A room that has three head monster  
+82: Frost - Bake Sale  
 83: ピコピコハンマー鍛冶職人がいる所  
 84: 三色団子みたいな芋虫がいる所  
 85: バレリーナの間を潜り抜けるトラップ1つ目  
@@ -780,7 +780,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 94: 迷路の部屋2つ目  
 95: 行き止まりの部屋2つ目 (これ統一しちゃ駄目だったの？)  
 96: 森 - 迷路後  
-97: どこでもドア(城)
+97: Teleport door (castle)
 98: めっちゃ滑らかに歩くやつがついてくる部屋  
 99: 美味しい飴を食べる部屋  
 100: めっちゃ滑らかに歩くやつがついてくる部屋2 (名前考えるのめんどくさくなってきた)(やった！ついに100だ！)  
@@ -795,15 +795,15 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 109: カルタス城のエレベーター  
 110: カルタス城のエレベーター (多分階層が違う)  
 111: カルタス城 - ？？？ (多分ここなんか重要。ストーリーの分岐とかしてくれると嬉しい)  
-112: 111の右 (3Dでの戦闘とか聞いてない、というか酔った)  
+112: Right of 111  
 113: カルタス城入ってすぐの廊下  
 114: カルタス城 - 1F  
 115: 家族写真がある部屋 (誰の？)  
-116: 4つの回転トラップを回避して進む部屋  
-117: クソ簡単なパズル1つ目  
+116: A room that has spinning trap  
+117: First easy puzzle  
 118: 見張りが徘徊してる部屋  
 119: A room that has four beds  
-120: そこまで難しくない回転トラップがある部屋  
+120: A room that has easy spinning trap  
 121: Second easy puzzle  
 122: ラジカセでクラブミュージックをかけている部屋  
 123: カルタス城 - 5F  
