@@ -686,39 +686,39 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
 1: Game opening  
 2: Kuris' room    
-3: Corridor in front of Kuris' room  
+3: Hallway in front of Kuris' room  
 4: Dark map (Maybe unused)  
 5: Kitchen   
 6: Bath room  
 7: Front of home  
-8: 真っ黒なマップ。恐らく未使用。  
-9: 自宅の下の店付近。  
+8: Dark map (Maybe unused)  
+9: A map that has shop near home  
 10: A lake  
-11: Below 9  
+11: A map below 9  
 12: Dark map (Maybe unused)  
 13: A map that has library  
-14: 学校の前  
-15: Town hallがあるマップ  
-16: 墓地  
-17: ガスターの音(?)が聞こえてくる扉があるマップ  
-18: 病院の受付  
-19: 病院の廊下  
-20: ノエルが話している病室  
-21: 青いおっさんがいる病室  
-22: QC's Dinerの中  
-23: Town hallの中  
-24: Asgoreの花屋の中  
-25: 読み込み不可  
-26: としょんか(図書館)の中  
-27: アルフィスがいる裏路地  
-28: トリエルの教室  
-29: 学校の廊下  
-30: アルフィスの教室  
-31: 物置がある学校の廊下  
-32: 真っ暗な物置  
-33: ただの物置  
+14: Front of school  
+15: A map that has town hall  
+16: Graveyard  
+17: A map has door that plays gaster's sound  
+18: In Hospital 
+19: Hospital's Hallway  
+20: Hospital room 1  
+21: Hospital room 2  
+22: In QC's Diner  
+23: In Town hall  
+24: Asgore's flower shop  
+25: Can't be loaded  
+26: In library  
+27: A back alley with Alphys  
+28: Toriel's classroom  
+29: Hallway of school  
+30: Alphys' classroom  
+31: Hallway of school that has storage room  
+32: Dark storage room  
+33: Normal storage room  
 34: 地底に落ちた時の場所  
-35: 1つ目のセーブポイント  
+35: ?????  
 36: 1つ目のセーブポイントの右の通路  
 37: 36の更に右  
 38: 化物の左右に植物があるだけの部屋  
