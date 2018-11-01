@@ -684,5 +684,7 @@ MAP IDやセーブデータの情報等を纏めたリポジトリです。/Some
 [マップIDリスト](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_JA.md)  
 [Save data information](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md)  
 [Map ID List](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_EN.md)  
-# CREDIT
+# Credit
 SiroQ
+# Special Thanks
+Thank you for tobyfox, he is who made Undertale and DELTARUNE!
