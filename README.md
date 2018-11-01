@@ -1,5 +1,6 @@
 # DELTARUNE
-MAP IDやセーブデータの情報等を纏めたリポジトリです。Some informations for DELTARUNE that includes MAP and Save
+MAP IDやセーブデータの情報等を纏めたリポジトリです。Some informations for DELTARUNE that includes MAP and Save.
+  
 [セーブデータ情報](https://github.com/SiroQ/DELTARUNE/blob/master/CONFIG_JA.md)  
 [マップIDリスト](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_JA.md)  
 [Save data information (If you know English and Japanese, help me with translate)](https://github.com/SiroQ/DELTARUNE/blob/master/CONFIG_JA.md)  
