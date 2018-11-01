@@ -680,6 +680,7 @@ DELTARUNE's save data stored in
 `C:\Users\USERNAME\AppData\Local\DELTARUNE`  
 (filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.  
 and, you can edit save data information in title screen by edit dr.ini.  
+also, you can change language by edit true_config.ini.  
 # Meaning of the value
 Line 1: Creator name  
 Line 2: Vessel name  
