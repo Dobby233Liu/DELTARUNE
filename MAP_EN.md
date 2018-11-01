@@ -738,27 +738,27 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 52: A map that has a sign under making  
 53: A map that has wood with two candy  
 54: A map that has broken cake  
-55: 2回目のモンスターがいる所  
-56: 平原 - 死の迷路  
-57: 1つ目の時計パズル  
-58: よろずやの下の道  
-59: 平原 - よろず屋  
-60: チュートリアルパズル達の部屋  
-61: 1つ目のどこでもドア前  
-62: 1つ目の石を動かして解くパズル  
-63: 光トラップの左側  
-64: ジグソーリーがいる部屋  
-65: 1つ目の光トラップ  
-66: 65の右  
-67: 2つ目の光トラップ  
-68: 平原 - 大盤面  
+55: A map that has second monster  
+56: Field - Maze of Death  
+57: First clock puzzle  
+58: A map below seam's shop  
+59: Field - Seam's shop  
+60: Tutorial puzzle's room  
+61: First teleport door  
+62: First rock puzzle  
+63: Left of light trap  
+64: Jigsorry's room  
+65: First light trap  
+66: Right of 65  
+67: Second light trap  
+68: Field - Great Board   
 69: Third light trap  
-70: とても曲がりくねった大盤面  
-71: 平原 - 大盤面2  
-72: 大盤面の終わり  
-73: 森 - 入り口  
+70: Twisted great board  
+71: Field - Great Board 2  
+72: End of great board  
+73: Frost - Entrance  
 74: Right of 73  
-75: Right of 75  
+75: Right of 74  
 76: 1つ目の回転トラップ  
 77: ただのボールがいる部屋  
 78: 1つ目のトランプパズル  
