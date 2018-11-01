@@ -1,4 +1,4 @@
-[](
+<!--
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -674,7 +674,7 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
-)
+-->
 # How to use / 使い方
 `C:\Users\ユーザー名\AppData\Local\DELTARUNE`  
 を開き、その中にある任意の設定ファイル  
