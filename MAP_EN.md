@@ -719,7 +719,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 33: Normal storage room  
 34: First place when fall down to underground
 35: ?????  
-36: Right of ?????
+36: Right of ?????  
 37: 36の更に右  
 38: 化物の左右に植物があるだけの部屋  
 39: 花が攻撃してくる部屋  
