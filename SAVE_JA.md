@@ -678,7 +678,7 @@ Public License instead of this License.  But first, please read
 # DELTARUNE セーブデータ
 DELTARUNEのセーブデータは  
 Windowsの場合`C:\Users\ユーザー名\AppData\Local\DELTARUNE`、  
-Macintoshの場合`/Applications/SURVEY_PROGRAM.app/Contents/Resources/`
+Macintoshの場合`/Applications/SURVEY_PROGRAM.app/Contents/Resources/`  
 の中にあります。  
 filech1_0が1番目のセーブデータ、filech1_1が2番目のセーブデータ、filech1_2が3番目のセーブデータです。  
 (filech1_3とfilech1_9はわからないです。)  
