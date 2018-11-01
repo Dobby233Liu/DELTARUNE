@@ -779,7 +779,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 93: 行き止まりの部屋の下  
 94: 迷路の部屋2つ目  
 95: 行き止まりの部屋2つ目 (これ統一しちゃ駄目だったの？)  
-96: 森 - 迷路後  
+96: Forest - After Maze  
 97: Teleport door (castle)
 98: めっちゃ滑らかに歩くやつがついてくる部屋  
 99: 美味しい飴を食べる部屋  
