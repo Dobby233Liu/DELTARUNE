@@ -681,6 +681,7 @@ Open
 and choose setting file.  
 (filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.)  
 then write map id to line 10317.
+Some maps will be buggy if you won't change event flag ([Save data](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md) line 16)
 # ID List
 0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
 1: Game opening.  
