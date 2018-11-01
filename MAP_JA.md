@@ -675,7 +675,7 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 -->
-# How to use / 使い方
+# 使い方
 `C:\Users\ユーザー名\AppData\Local\DELTARUNE`  
 を開き、その中にある任意の設定ファイル  
 (filech1_0が1番目、filech1_1が2番目、filech1_2が3番目のセーブスロットに対応しています。3と9はわからないです。)  
