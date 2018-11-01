@@ -718,11 +718,11 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 32: Dark storage room  
 33: Normal storage room  
 34: First place when fall down to underground
-35: ?????  
-36: Right of ?????  
-37: 36の更に右  
-38: 化物の左右に植物があるだけの部屋  
-39: 花が攻撃してくる部屋  
+35: ??????  
+36: Right of ??????  
+37: Right of 36  
+38: A map that has weird moster between two flowers  
+39: Attacking flower room  
 40: 目のパズルがある部屋  
 41: 化物に触れる部屋  
 42: ロッククライミングできそうな壁がある部屋  
@@ -807,8 +807,8 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 121: クソ簡単なパズル2つ目  
 122: ラジカセでクラブミュージックをかけている部屋  
 123: カルタス城 - 5F  
-124: 自転車がベッドに寝かされている部屋  
-125: パズル野郎と赤い板がいる部屋  
+124: A room that has bicycle lying in bed  
+125: A room that has easy puzzle man and red board monster  
 126: Throne  
 127: Between 126 and 128  
 128: Boss battle room  
