@@ -690,5 +690,5 @@ filech1_0が1番目のセーブデータ、filech1_1が2番目のセーブデー
 9行目: 2人目のパーティメンバー (1:クリス,2:スージィ,3:ラルセイ)  
 10行目: 3人目のパーティメンバー (1:クリス,2:スージィ,3:ラルセイ)  
 16行目: イベントフラグ (0:地上にいる,1:地下にいる,2以上:不明)  
-10317行目: 現在のマップID ((マップID一覧)[https://github.com/SiroQ/DELTARUNE/blob/master/MAP_JA.md])  
+10317行目: 現在のマップID ( (マップID一覧)[https://github.com/SiroQ/DELTARUNE/blob/master/MAP_JA.md] )  
 10318行目: トータルプレイ時間  
