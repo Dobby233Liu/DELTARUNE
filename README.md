@@ -677,7 +677,7 @@ Public License instead of this License.  But first, please read
 -->
 # DELTARUNE
 MAP IDやセーブデータの情報等を纏めたリポジトリです。/Some informations for DELTARUNE that includes MAP and Save.  
-転載するときは下記クレジットも一緒にお願いします。 
+転載するときは下記クレジットも一緒にお願いします。/If you want write my data to somewhere, please write below credits.
   
 [セーブデータ情報](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_JA.md)  
 [マップIDリスト](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_JA.md)  
