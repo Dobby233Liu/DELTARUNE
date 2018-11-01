@@ -816,9 +816,17 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 128: Boss battle room  
 129: Before FOUNTAIN OF DARKNESS  
 130: FOUNTAIN OF DARKNESS  
-131: Toby dog is sleeping, title changed to "DOGUTARUNE".  
-132: Toby dog is sleeping, title changed to "DOGUTARUNE".  
-133: Toby dog is sleeping, title changed to "DOGUTARUNE".  
-134: Toby dog is sleeping, title changed to "DOGUTARUNE".  
-1337: Toby dog is sleeping, title changed to "DOGUTARUNE".  
-10000000000000: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+131: Toby dog is sleeping, title changed to "DOGUTARUNE". (Normal doggo)  
+132: Toby dog is sleeping, title changed to "DOGUTARUNE". (Ending with little sound)  
+133: Toby dog is sleeping, title changed to "DOGUTARUNE". (Seam's shop)  
+134: Toby dog is sleeping, title changed to "DOGUTARUNE". (Puzzle man's shop)  
+135: Toby dog is sleeping, title changed to "DOGUTARUNE". (Can't be loaded)  
+136: Toby dog is sleeping, title changed to "DOGUTARUNE". (Ending)  
+137: Toby dog is sleeping, title changed to "DOGUTARUNE". (Ending)  
+138: Toby dog is sleeping, title changed to "DOGUTARUNE". (Gameover)  
+139: Toby dog is sleeping, title changed to "DOGUTARUNE". (Changes title to "THE DARK" a bit)  
+140: Toby dog is sleeping, title changed to "DOGUTARUNE". (Ending without splash)  
+141: Toby dog is sleeping, title changed to "DOGUTARUNE". (Black room)  
+142: Toby dog is sleeping, title changed to "DOGUTARUNE". (Egg man's room)  
+143: Toby dog is sleeping, title changed to "DOGUTARUNE". (Black room)  
+144: Toby dog is sleeping, title changed to "DOGUTARUNE". (Pink room)
