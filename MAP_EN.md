@@ -731,7 +731,7 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 45: Castle town  
 46: In castle  
 47: Dummy room  
-48: 冒険の始まりの扉  
+48: A big door  
 49: 平原 - 大扉  
 50: 扉の下  
 51: 最初のモンスターがいる所  
