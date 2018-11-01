@@ -716,5 +716,6 @@ Line 183: Magic of third party member
 Line 185: First item of third party member  
 Line 186: Second item of third party member  
 Line 187: Third item of third party member  
+Line 10316: Event flag (Set 0 for reset all event)  
 Line 10317: Current MAP ID ([MAP ID List](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_EN.md))  
 Line 10318: Played time  
