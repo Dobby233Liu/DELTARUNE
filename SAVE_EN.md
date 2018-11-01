@@ -690,5 +690,11 @@ Line 8: First member of party (1:Kris,2:Susie,3:Ralsei)
 Line 9: Second member of party (1:Kris,2:Susie,3:Ralsei)  
 Line 10: Third member of party (1:Kris,2:Susie,3:Ralsei)  
 Line 16: Event flag (0:Normal world, 1:Underground, Over 2:Unknown)  
+Line 71: Current HP of first party member  
+Line 72: Max HP of first party member
+Line 125: Current HP of second party member  
+Line 126: Max HP of second party member  
+Line 179: Current HP of third party member  
+Line 180: Max HP of third party member  
 Line 10317: Current MAP ID ([MAP ID List](https://github.com/SiroQ/DELTARUNE/blob/master/MAP_EN.md))  
 Line 10318: Played time  
