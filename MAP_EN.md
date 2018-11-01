@@ -809,11 +809,11 @@ Some maps will be buggy if you won't change event flag ([Save data](https://gith
 123: カルタス城 - 5F  
 124: 自転車がベッドに寝かされている部屋  
 125: パズル野郎と赤い板がいる部屋  
-126: 玉座  
-127: 玉座の上の通路  
-128: ラスボスがいる部屋 (ラスボスにしては小物感あるよねあいつ)  
-129: 闇の泉に繋がる通路  
-130: 闇の泉  
+126: Throne  
+127: Between 126 and 128  
+128: Boss battle room  
+129: Before FOUNTAIN OF DARKNESS  
+130: FOUNTAIN OF DARKNESS  
 131: Toby dog is sleeping, title changed to "DOGUTARUNE".  
 132: Toby dog is sleeping, title changed to "DOGUTARUNE".  
 133: Toby dog is sleeping, title changed to "DOGUTARUNE".  
