@@ -679,7 +679,9 @@ Public License instead of this License.  But first, please read
 `C:\Users\ユーザー名\AppData\Local\DELTARUNE`  
 を開き、その中にある任意の設定ファイル  
 (filech1_0が1番目、filech1_1が2番目、filech1_2が3番目のセーブスロットに対応しています。3と9はわからないです。)  
-をメモ帳等で開き、下から二番目の行に任意のマップIDを入れてください。
+をメモ帳等で開き、下から二番目の行に任意のマップIDを入れてください。  
+いくつかのマップは、16行目のイベントフラグを合わせないとバグが起こります。  
+詳しくは[こちら](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_JA.md)  
 # ID List
 0: Toby犬が寝てる、タイトルがDOGUTARUNEになる  
 1: オープニングの性格等決める所。  
