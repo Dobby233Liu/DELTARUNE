@@ -680,7 +680,7 @@ I'm not good at English, so if you found any bad English open issue or send pull
 # How to use
 Open  
 `C:\Users\UserName\AppData\Local\DELTARUNE`(Windows)  
-`/Applications/SURVEY_PROGRAM.app/Contents/Resources/`(Macintosh)  
+`/Users/UserName/Library/Application Support/com.tobyfox.deltarune`(Macintosh)  
 and choose setting file.  
 (filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.)  
 then write map id to line 10317.
