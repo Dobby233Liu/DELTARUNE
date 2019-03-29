@@ -676,18 +676,18 @@ Public License instead of this License.  But first, please read
 
 -->
 # Attention
-I'm not good at English, so if you found any bad English open issue or send pull request please.  
+I'm not good at English, so If you found any bad English open issue or send pull request, please.  
 # How to use
 Open  
-`C:\Users\UserName\AppData\Local\DELTARUNE`(Windows)  
-`/Users/UserName/Library/Application Support/com.tobyfox.deltarune`(Macintosh)  
+`%localappdata%\DELTARUNE`(Windows)  
+`/Users/YourUserName/Library/Application Support/com.tobyfox.deltarune`(Macintosh)  
 and choose setting file.  
-(filech1_0 is save slot 1,filech1_1 is save slot 2,filech1_2 is save slot 3. I don't know filech1_3 and filech1_9.)  
+(filech1_0 is save slot 1; filech1_1 is save slot 2; filech1_2 is save slot 3. filech1_3 - filech1_5 marks save slot completion, filech_9 is a temproary save file.)  
 then write map id to line 10317.
 Some maps will be buggy if you won't change event flag ([Save data](https://github.com/SiroQ/DELTARUNE/blob/master/SAVE_EN.md) line 16).  
-Rooms that Toby dog is sleeping can access by hex editor.  
+Rooms that Toby dog is sleeping can be access by a hex editor or UndertaleModTool.  
 # ID List
-0: Toby dog is sleeping, title changed to "DOGUTARUNE".  
+0: D
 1: Game opening  
 2: Kris' room    
 3: Hallway in front of Kris' room  
