@@ -55,8 +55,8 @@ Rooms that shows a sleeping Toby dog (dogchecked room) can be access by a hex ed
 - 21: Hospital room - 2  
 - 22: In QC's Diner  
 - 23: In Town hall  
-- 24: Asgore's flower shop (Floor - 1)
-- 25: Asgore's flower shop (Floor - 2)
+- 24: Asgore's flower shop (Floor 1)
+- 25: Asgore's flower shop (Floor 2)
 - 26: In library  
 - 27: A back alley with Alphys  
 - 28: Toriel's classroom  
@@ -105,8 +105,8 @@ Rooms that shows a sleeping Toby dog (dogchecked room) can be access by a hex ed
 - 71: Field - Great Board 2  
 - 72: End of great board  
 - 73: Frost - Entrance  
-- 74: Right of - 73  
-- 75: Right of - 74  
+- 74: Right of 73  
+- 75: Right of 74  
 - 76: First spinning trap  
 - 77: A room that has little ball (starwalker room) 
 - 78: First trump puzzle  
@@ -134,7 +134,7 @@ Rooms that shows a sleeping Toby dog (dogchecked room) can be access by a hex ed
 - 100: A map that lacer tracing us 2  
 - 101: A map that lacer tracing us 3  
 - 102: Attack from enemy  
-- 103: Attack from enemy- 2  
+- 103: Attack from enemy 2  
 - 104: Front of Card Castle  
 - 105: Prison of Card Castle  
 - 106: A room that susie solve puzzle himself  
@@ -145,7 +145,7 @@ Rooms that shows a sleeping Toby dog (dogchecked room) can be access by a hex ed
 - 111: Card Castle - ???  
 - 112: Right of 111  
 - 113: Hallway of card castle entrance  
-- 114: Card Castle - - 1F  
+- 114: Card Castle - 1F  
 - 115: A room that has family photo  
 - 116: A room that has spinning trap  
 - 117: First easy puzzle  
@@ -158,7 +158,7 @@ Rooms that shows a sleeping Toby dog (dogchecked room) can be access by a hex ed
 - 124: A room that has bicycle lying in bed  
 - 125: A room that has easy puzzle man and red board monster  
 - 126: Throne  
-- 127: Between - 126 and - 128  
+- 127: Between 126 and 128  
 - 128: Boss battle room  
 - 129: Before FOUNTAIN OF DARKNESS  
 - 130: FOUNTAIN OF DARKNESS  
