@@ -33,8 +33,9 @@ MAP IDやセーブデータの情報等をまとめたリポジトリです。/S
 
 # Credits
 - SiroQ
-- 
+- Stardust Team's Research Lab
+<!-- - Toby Fox -->
 
 # Special Thanks
-Thank you for tobyfox, he is who made [Undertale](https://undertale.com/) and [DELTARUNE](https://deltarune.com)!  
-Thank you for Stardust Team's Research Lab, they give me debug mode!
+- Thanks for Toby Fox, who made both [UNDERTALE](https://undertale.com/) and [DELTARUNE](https://deltarune.com)!  
+- Thanks for Stardust Team's Research Lab, who give me debug mode information!
